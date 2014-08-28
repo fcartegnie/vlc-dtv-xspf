@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Liste de lecture</title>
+	<trackList>
+		<track>
+			<title>Channel 16: TOKYO MX</title>
+			<location>isdb-t://frequency=491143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>program=23608</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 16: TOKYO MX 2</title>
+			<location>isdb-t://frequency=491143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=23609</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 21: フジテレビジオン</title>
+			<location>isdb-t://frequency=521143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>program=1056</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 21: フジテレビ⛔</title>
+			<location>isdb-t://frequency=521143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1057</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 21: フジテレビ⛔</title>
+			<location>isdb-t://frequency=521143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1058</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 22: TBS 2</title>
+			<location>isdb-t://frequency=527143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>program=1049</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 22: TBS 1⛔</title>
+			<location>isdb-t://frequency=527143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1048</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 23: テレビ東京</title>
+			<location>isdb-t://frequency=533143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>program=1072</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 23: テレビ東京２⛔</title>
+			<location>isdb-t://frequency=533143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1073</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 23: テレビ東京3⛔</title>
+			<location>isdb-t://frequency=533143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1074</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 24: テレビ朝日</title>
+			<location>isdb-t://frequency=539143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>program=1064</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 24: テレビ朝日⛔</title>
+			<location>isdb-t://frequency=539143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1065</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 24: テレビ朝日⛔</title>
+			<location>isdb-t://frequency=539143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1066</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 25: 日本 テレビ</title>
+			<location>isdb-t://frequency=545143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>program=1040</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 25: 日本 テレビ2⛔</title>
+			<location>isdb-t://frequency=545143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1041</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 26: NHK E テレ</title>
+			<location>isdb-t://frequency=551143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>program=1032</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 26: NHK E テレ2⛔</title>
+			<location>isdb-t://frequency=551143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1033</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 26: NHK E テレ3⛔</title>
+			<location>isdb-t://frequency=551143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1034</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 27: NHK 総合東京1</title>
+			<location>isdb-t://frequency=557143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>program=1024</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 27: NHK 総合東京2⛔</title>
+			<location>isdb-t://frequency=557143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>program=1025</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 28: 放送大学</title>
+			<location>isdb-t://frequency=563143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>program=1088</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 28: 放送大学2⛔</title>
+			<location>isdb-t://frequency=563143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1089</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>Channel 28: 放送大学3⛔</title>
+			<location>isdb-t://frequency=563143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1090</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 16: TOKYO MX</title>
+			<location>isdb-t://frequency=491143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=23992</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 16: TOKYO MX 2</title>
+			<location>isdb-t://frequency=491143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=23993</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 21: フジテレビジオン</title>
+			<location>isdb-t://frequency=521143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1440</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 22: TBS 1</title>
+			<location>isdb-t://frequency=527143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1432</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 23: テレビ東京</title>
+			<location>isdb-t://frequency=533143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1456</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 24: テレビ朝日</title>
+			<location>isdb-t://frequency=539143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1448</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 25: 日本 テレビ</title>
+			<location>isdb-t://frequency=545143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1424</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 26: NHK E テレ</title>
+			<location>isdb-t://frequency=551143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1416</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>1-Seg Channel 27: NHK 総合東京1</title>
+			<location>isdb-t://frequency=557143000</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1408</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="7"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="0"/>
+			<vlc:item tid="8"/>
+	</extension>
+</playlist>
