@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" 
+
+xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Wiedergabeliste</title>
+	<trackList>
+		<track>
+			<location>dvb-t://frequency=738000000</location>
+			<title>kabel eins</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16394</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=738000000</location>
+			<title>N24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16398</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=738000000</location>
+			<title>ProSieben</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16403</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=738000000</location>
+			<title>SAT.1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16408</vlc:option>
+			</extension>
+		</track>
+
+		<track>
+			<location>dvb-t://frequency=722000000</location>
+			<title>TELE 5</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16413</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000</location>
+			<title>QVC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16420</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000</location>
+			<title>Channel21/rheinmaintv</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=19200</vlc:option>
+			</extension>
+		</track>
+
+		<track>
+			<location>dvb-t://frequency=578000000</location>
+			<title>RTL Hessen</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16405</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=578000000</location>
+			<title>RTL2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16406</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=578000000</location>
+			<title>SRTL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16411</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=578000000</location>
+			<title>VOX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16418</vlc:option>
+			</extension>
+		</track>
+
+		<track>
+			<location>dvb-t://frequency=482000000</location>
+			<title>ZDF</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=514</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=482000000</location>
+			<title>3sat</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=515</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=482000000</location>
+			<title>ZDFinfo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=516</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=482000000</location>
+			<title>neo/KiKA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=517</vlc:option>
+			</extension>
+		</track>
+
+		<track>
+			<location>dvb-t://frequency=618000000</location>
+			<title>Bayerisches FS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=618000000</location>
+			<title>hr-fernsehen</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=65</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=618000000</location>
+			<title>rbb Berlin</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=178</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=618000000</location>
+			<title>SWR Fernsehen RP</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=226</vlc:option>
+			</extension>
+		</track>
+
+		<track>
+			<location>dvb-t://frequency=602000000</location>
+			<title>arte</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=2</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=602000000</location>
+			<title>PHOENIX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=3</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=602000000</location>
+			<title>tagesschau24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=4</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=602000000</location>
+			<title>Das Ersste</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=64</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+</playlist>
